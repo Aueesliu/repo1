@@ -1,0 +1,28 @@
+﻿{
+    "Goods": [
+        {
+            "GoodsId": 1,
+            "GoodsName": "红药水",
+            "GoodsEffect": "+80HP",
+            "GoodCoins": 200
+        },
+        {
+            "GoodsId": 2,
+            "GoodsName": "蓝药水",
+            "GoodsEffect": "+80MP",
+            "GoodCoins": 150
+        },
+        {
+            "GoodsId": 3,
+            "GoodsName": "活力药水",
+            "GoodsEffect": "60sHP恢复提升",
+            "GoodCoins": 500
+        },
+        {
+            "GoodsId": 4,
+            "GoodsName": "精力药水",
+            "GoodsEffect": "60sMP恢复提升",
+            "GoodCoins": 500
+        }
+    ]
+}
